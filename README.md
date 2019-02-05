@@ -14,6 +14,6 @@ Properties of Vector Embeddings in Social Networks
 
 # How to run
 1) Learn embeddings using [Deepwalk](https://github.com/phanein/deepwalk), [node2vec](https://github.com/aditya-grover/node2vec) or [HARP](https://github.com/GTmac/HARP) <br />
-2) Give the ranking label to every pair of nodes by prepare_labels.py  <br />
+2) Give a ranking label to each pair of nodes by prepare_labels.py  <br />
 3) Run RankSVM.py to learn weights for each graph property <br />
 
