@@ -1,15 +1,14 @@
 # Properties_of_Embeddings
 Properties of Vector Embeddings in Social Networks
 
+
+# Paper
+[Properties of Vector Embeddings in Social Networks](https://www.mdpi.com/1999-4893/10/4/109/pdf-vor)
+
 # Datasets
 [Facebook](https://snap.stanford.edu/data/egonets-Facebook.html) <br />
 [Twitter](https://snap.stanford.edu/data/egonets-Twitter.html) <br />
 [Google+](https://snap.stanford.edu/data/egonets-Gplus.html) <br />
-
-
-
-# Paper
-[Properties of Vector Embeddings in Social Networks](https://www.mdpi.com/1999-4893/10/4/109/pdf-vor)
 
 
 # How to run
